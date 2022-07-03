@@ -5,10 +5,10 @@ const AddTodo = ({ data }) => {
   const [text, setText] = useState("");
 
   return (
-    <div className="addTodo">
+    <div >
       <h1>Todo</h1>
       <input
-        className="input"
+        id="box"
         type="text"
         placeholder="Write Something"
         value={text}

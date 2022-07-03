@@ -1,4 +1,13 @@
-input , button{
+div input , div button {
     font-size: 30px;
+     color: green;
     border-radius: 5px;
+    background-color: teal;
+    color: darkblue;
 }
+
+div h1{
+     font-size: 30px;
+     color: green;
+}
+
